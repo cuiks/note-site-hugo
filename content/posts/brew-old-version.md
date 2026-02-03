@@ -1,7 +1,10 @@
 ---
+moduleType: 文章模板
 title: "HomeBrew 安装旧版本应用"
 date: 2021-11-24T14:55:31+08:00
-tags: ["mac", "brew"]
+tags:
+- ["mac"
+- "brew"]
 draft: false
 ---
 

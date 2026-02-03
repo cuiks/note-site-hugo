@@ -1,7 +1,10 @@
 ---
+moduleType: 文章模板
 title: "基础复习"
 date: 2021-10-12T13:47:43+08:00
-tags: ["basic", "review"]
+tags:
+- ["basic"
+- "review"]
 draft: false
 ---
 
